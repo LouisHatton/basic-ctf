@@ -1,0 +1,9 @@
+services:
+  ui:
+    container_name: website
+    build:
+      context: .
+      dockerfile: ./website/Dockerfile
+    volumes:
+      - ./cmd/admin-ui:/app
+      - /app/node_modules/

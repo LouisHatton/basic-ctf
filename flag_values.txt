@@ -1,0 +1,6 @@
+hugo:8ff0a5224eadab5cfa5bdf805f51cedf
+hugo_flag.txt:653c8d40bf427cf3f73cfca533a80671
+root_flag.txt:1a2231a625de15d629babc7aefbf407f
+
+example calculator repo: https://github.com/joviksdev/Calculator
+

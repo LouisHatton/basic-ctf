@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /website-flag.txt
+Disallow: /vault
+
+User-agent: *
+Allow: /

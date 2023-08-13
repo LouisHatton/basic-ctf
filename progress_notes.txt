@@ -1,0 +1,32 @@
+Progress Notes - Calculator App Development
+
+Developer: Hugo Woods
+Project: Calculator App v2
+
+Implemented basic arithmetic operations:
+Successfully coded the core functionality of the calculator app, including addition, subtraction, multiplication, and division. All operations have been thoroughly tested and validated for accurate results.
+
+Designed user interface mockups:
+Created initial UI mockups using Figma, outlining the app's layout, button placements, and color scheme. The design aims for a clean and intuitive user experience.
+
+Integrated responsive layout:
+Utilized HTML and CSS to establish a responsive layout, ensuring the app's usability across various devices and screen sizes.
+
+Added keyboard support:
+Enabled keyboard input for users who prefer using shortcuts, enhancing accessibility and user-friendliness.
+
+Accidentally committed root user key:
+While performing routine version control tasks, I mistakenly committed the root user key to the repository. Recognizing the security implications, I promptly reverted the commit and took immediate steps to mitigate potential risks. Moving forward, I will implement stricter code review processes and ensure sensitive information remains safeguarded. 
+
+Implemented error handling:
+Developed error-handling mechanisms to gracefully manage scenarios such as division by zero or invalid input, maintaining a smooth user experience.
+
+Conducted unit testing:
+Commenced unit testing to verify the accuracy of mathematical calculations and input validation, ensuring reliability in various usage scenarios.
+
+Next steps:
+Plan to implement advanced features like memory functions, scientific calculations, and customizable themes to enhance the app's versatility.
+
+Note: Continuous attention will be given to security best practices, with the root user key incident serving as a valuable reminder to maintain a vigilant approach to code repository management.
+
+End of Progress Notes
